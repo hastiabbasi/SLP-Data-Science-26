@@ -27,7 +27,7 @@ The frontend is a Streamlit website with three main areas:
 From the repository root, navigate to the frontend folder:
 
 ```bash
-cd SLP_26_Website_updated
+cd Website
 ```
 
 Install the required packages:
