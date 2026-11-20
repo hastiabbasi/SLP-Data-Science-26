@@ -14,27 +14,6 @@ Our project demonstrates an end-to-end machine learning workflow, including data
 - Created interactive visualizations for our final presentation
 - Built an interactive Streamlit website to showcase our work
 
-## Repository structure
-
-```text
-.
-├── notebooks/
-│   ├── shared_baseline.ipynb
-│   ├── nov_1_spaceship_titanic_task.ipynb
-│   ├── nov_8_spaceship_titanic_task.ipynb
-│   ├── final_model_and_presentation_task.ipynb
-│   └── visualizations_for_final_presentation.ipynb
-│
-└── frontend/
-    ├── app.py
-    ├── requirements.txt
-    └── assets/
-        ├── tensorflowed_logo.png
-        └── team/
-```
-
-The notebook names shown above are examples of the main project notebooks. The exact files in the repository may include additional answer keys, experiments, or model versions.
-
 ## Interactive frontend
 
 The frontend is a Streamlit website with three main areas:
@@ -48,7 +27,7 @@ The frontend is a Streamlit website with three main areas:
 From the repository root, navigate to the frontend folder:
 
 ```bash
-cd frontend
+cd SLP_26_Website_updated
 ```
 
 Install the required packages:
